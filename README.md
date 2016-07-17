@@ -16,12 +16,12 @@ Sqlmap项目地址：https://github.com/sqlmapproject/sqlmap
 于是，在不断地探索中，笔者找到了打造无需Python环境的Sqlmap的方法，希望将程序及经验分享出来 ：） 欢迎小伙伴们一起交流
 
 ###github布局：
-1.Release部分：
-https://github.com/crown-prince/Sqlmap_Everywhere/tree/master/Release/Bin
+1.Release部分：<br>
+https://github.com/crown-prince/Sqlmap_Everywhere/tree/master/Release/Bin <br>
 在Release部分，小伙伴们可以直接下载后，同时和已编译好的run.exe放置在一起（run.exe与Bin文件夹放在一起，请勿放置于其中），直接运行run.exe，即可按照习惯的方式，使用sqlmap.exe
 <br>
-2.Source部分：
-https://github.com/crown-prince/Sqlmap_Everywhere/tree/master/Source
+2.Source部分：<br>
+https://github.com/crown-prince/Sqlmap_Everywhere/tree/master/Source <br>
 在Source部分，包括了程序的所有源码，主要体现的是：https://github.com/crown-prince/Sqlmap_Everywhere/blob/master/Source/run.cpp
 run.exe的源码，这是联系sqlmap与使用者的桥梁
 
@@ -29,7 +29,6 @@ run.exe的源码，这是联系sqlmap与使用者的桥梁
 1.运行截图：
 ![](https://github.com/crown-prince/Sqlmap_Everywhere/blob/master/%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE/1.png)
 
-2.存在漏洞
 
 ##意见与建议：
 
