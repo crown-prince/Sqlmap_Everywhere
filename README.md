@@ -1,6 +1,6 @@
 #Sqlmap_Everywhere
-项目概述：最新版本（1.0.7.25#dev）的无需Python环境的Sqlmap 及未来如何制作属于自己的、最新的、无需Python环境的Sqlmap的方法介绍
-
+项目概述：最新版本（1.0.7.25#dev）的无需Python环境的Sqlmap 及未来如何制作属于自己的、最新的、无需Python环境
+的Sqlmap的方法介绍
 Sqlmap项目地址：https://github.com/sqlmapproject/sqlmap
 
 ----
