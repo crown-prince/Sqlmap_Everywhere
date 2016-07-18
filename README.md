@@ -27,7 +27,7 @@ run.exe的源码，这是联系sqlmap与使用者的桥梁
 1. 运行截图：
 ![](https://github.com/crown-prince/Sqlmap_Everywhere/blob/master/%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE/1.png)
 
-##受以渔：
+##授以渔：
 sqlmap在不断的更新中，笔者希望通过将制作方法公开的方式，帮助更多小伙伴们，打造出属于自己的、最新的、无需Python环境的Sqlmap
 
 制作方法：<br>
